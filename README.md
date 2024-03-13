@@ -1,9 +1,10 @@
-### HELLO, WORLD! 👋
+### 👋 HELLO, WORLD!
 
 # Bem-vindo(a) ao perfil de Natália Brunelli da Silveira.
 
  <div>
    <a href="https://github.com/nataliabrunelli">
+   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=nataliabrunelli&theme=blue_navy&hide_border=false">
    <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nataliabrunelli&show_icons=true&theme=blue_navy&include_all_commits=true&count_private=true"/> -->
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nataliabrunelli&layout=compact&langs_count=6&theme=blue_navy"/>
 </div>
@@ -21,3 +22,9 @@
 <div> 
   <a href="https://www.linkedin.com/in/nataliabrunelli" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
+
+<br>
+
+## ✍️ Random Dev Quote:
+
+<img height="180em" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight">
