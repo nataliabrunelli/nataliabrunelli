@@ -36,8 +36,6 @@
 
 <img height="180em" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight">
 
-<br>
-<br>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nataliabrunelli/nataliabrunelli/output/github-contribution-grid-snake-dark.svg">
