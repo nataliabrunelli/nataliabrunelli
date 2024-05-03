@@ -42,3 +42,5 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nataliabrunelli/nataliabrunelli/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/nataliabrunelli/nataliabrunelli/output/github-contribution-grid-snake.svg">
 </picture>
+
+<!-- Tutorial para o snake: https://github.com/rafaballerini2/rafaballerini2/issues/1 -->
