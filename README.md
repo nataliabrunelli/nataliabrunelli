@@ -11,13 +11,30 @@
 
 <br>
 
+## Quem sou eu:
+
+ Sou Mestra em Música pela UNICAMP, agora em transição para o Desenvolvimento Web Frontend. 
+ 
+ Minha experiência como professora de música para diferentes faixas etárias me trouxe habilidades valiosas de comunicação, didática e adaptação – essenciais no mundo da tecnologia.
+
+ Tenho conhecimento em:
+ - HTML, CSS e JavaScript puro, com foco em boas práticas;
+ - Testes unitários com Jest, garantindo qualidade no código;
+ - Atualmente estudando React para aprimorar minhas habilidades no frontend;
+ - Também já estudei um pouco de Java.
+   
+ Estou aberta a conexões e oportunidades! Me chame para trocar ideias sobre código, música ou um bom café. ☕
+
+ <br>
+
 ## Linguagens que estou estudando: 
 
-  <div style="display: inline_block">
+  <div>
    <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
    <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
    <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-   <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+   <img align="center" alt="Jest" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg">
    <img align="right" height="100em" src="https://pa1.aminoapps.com/6678/86155b329424016e33ea43a70b7aeb4e8e2ad9b7_hq.gif">  
   </div>
 
@@ -30,6 +47,7 @@
   <a href="https://www.linkedin.com/in/nataliabrunelli" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
+<br>
 <br>
 
 ### ✍️ Random Dev Quote:
