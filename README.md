@@ -2,9 +2,10 @@
 
 # Bem-vindo(a) ao perfil de Natália Brunelli da Silveira.
 
+<br>
+
  <div>
-   <a href="https://github.com/nataliabrunelli">
-   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=nataliabrunelli&theme=blue_navy&hide_border=false">
+  <!-- <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=nataliabrunelli&theme=github-dark-blue&mode=weekly"/> -->
    <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nataliabrunelli&show_icons=true&theme=blue_navy&include_all_commits=true&count_private=true"/> -->
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nataliabrunelli&layout=compact&langs_count=6&theme=blue_navy"/>
 </div>  
