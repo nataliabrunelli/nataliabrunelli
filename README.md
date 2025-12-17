@@ -39,8 +39,7 @@
    <img align="right" height="100em" src="https://pa1.aminoapps.com/6678/86155b329424016e33ea43a70b7aeb4e8e2ad9b7_hq.gif">  
   </div>
 
-<br>
-<br>
+<br clear="all" />
  
 ## Para saber mais, acesse meu LinkedIn:
  
